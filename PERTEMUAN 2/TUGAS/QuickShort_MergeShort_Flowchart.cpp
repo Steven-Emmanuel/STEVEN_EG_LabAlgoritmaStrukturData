@@ -1,4 +1,4 @@
-//QuickShort
+////QuickShort
 //#include <iostream>
 //using namespace std;
 //
@@ -63,7 +63,7 @@
 
 
 
-//MergeShort
+////MergeShort
 //#include <iostream>
 //using namespace std;
 //
